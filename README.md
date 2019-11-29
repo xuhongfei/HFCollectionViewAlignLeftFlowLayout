@@ -1,6 +1,6 @@
 # HFCollectionViewAlignLeftFlowLayout
 
-`HFCollectionViewAlignLeftFlowLayout`继承自`UICollectionViewFlowLayout`，用于实现Cells左对齐。采用swift实现，支持最新swift4.2。
+`HFCollectionViewAlignLeftFlowLayout`继承自`UICollectionViewFlowLayout`，用于实现Cells左对齐。采用swift实现，支持最新swift5。
 
 <img src="https://github.com/xuhongfei/HFCollectionViewAlignLeftFlowLayout/blob/master/example.jpg" width="423" height="838" alt="example图片加载失败"/>
 
